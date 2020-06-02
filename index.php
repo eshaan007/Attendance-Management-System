@@ -10,7 +10,7 @@
 	<link rel='stylesheet' href='css/style.css'>
 </head>
 
-<body style='background-color:#3c6382'>
+<body style='background-color:#d8d8d8'>
 
 	<div id='main-wrapper'>
 		<center>
