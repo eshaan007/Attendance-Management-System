@@ -1,4 +1,4 @@
-# Attendance Management System
+# Attendance Management System 🏫
 
 ### It is divided into 2 parts 
 
