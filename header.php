@@ -11,10 +11,12 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 
-<div class="container">
-	<div class="well text-center">
-		<h3>Teacher Page</h3>
+<body>
+	<div class="container">
+		<div class="well text-center">
+			<h3>Teacher Page</h3>
+		</div>
 	</div>
-</div>
+</body>
 
 </html>
