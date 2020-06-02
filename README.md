@@ -1,10 +1,15 @@
 # Attendance Management System 🏫 
 
+Github Repo link : https://github.com/eshaan007/Attendance-Management-System
+
 ### It is divided into 2 parts 
  - A view portal for insertion
  - View System for the faculty and Student
  
 #### It uses HTML, CSS as Front-End, PHP for Backend, MySQL for Database Handling and XAMPP Server for hosting.
+
+An Attendance View Portal is developed. The login page is common for both the faculty as well as students. At the end, the attendance is submitted to the database. \
+When a successful login occurs, faculty can see the date wise attendance of all the subjects. The student will be able to see his/her date wise or subject wise attendance.
 
 ## This is what every file in my Repository does : 
 
