@@ -1,0 +1,109 @@
+#main-wrapper{
+	width:500px;
+	margin: 0 auto;                                                              
+    background:#f7f1e3;
+	padding:5px;
+	border-radius:10px;
+	border: 2px solid #ffb142;
+
+}
+.avatar{
+	width:200px;
+	text-align:center;
+	
+
+}
+.myform{
+	width:450px;
+	margin:0 auto;
+	
+}
+.inputvalues{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+	
+}
+#login_btn{
+	background-color:#3c40c6;
+	padding:5px;
+	color:white;
+	width:180px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-right:50px;
+	margin-left:20px;
+}
+#register_btn{
+	margin-bottom:40px;
+	background-color:#44bd32;
+	padding:5px;
+	color:white;   
+	width:180px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+/*Style for registration form*/
+
+#signup_btn{
+	margin-bottom:40px;
+	background-color:#182C61;
+	padding:5px;
+	color:white;
+	width:450px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#back_btn{
+	margin-bottom:40px;
+	background-color:#eb2f06;
+	padding:5px;
+	color:white;
+	width:80px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-right:600px;
+	margin-left:360px;
+}
+#logout_btn{
+	margin-bottom:40px;
+	background-color:#d35400;
+	padding:5px;
+	color:white;
+	width:450px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+/*Teacher Image*/
+
+.teachim{
+	height:20px;
+	width:200px;
+	text-align:center;
+}
+
+#click_btn{
+	margin-bottom:10px;
+	background-color:#3B3B98;
+	padding:5px;
+	color:white;
+	width:450px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#datepicker{
+		width: 180px; margin: 0 20px 20px 20px;
+	}
+	#datepicker > span:hover{
+		cursor:pointer;
+	}
+
