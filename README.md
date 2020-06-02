@@ -6,17 +6,23 @@
  
 #### It uses HTML, CSS as Front-End, PHP for Backend, MySQL for Database Handling and XAMPP Server for hosting.
 
-*config.php* : Makes connection with localhost and other different files. \
-*admin.php* : Registers himself. From welcome page, he goes to different pages from the panel. \
-*blockchain.php* : Gives information for this particular subject. \
-*header.php* : Common Header for every student and teacher's pages. \
-*hompage.php* : After Login, the user is welcomed to this page. \
-*ind.php* : Gives the overview for the teacher's Home page. \
-*index.php* : This the Login page for the users. \
-*lab.php* : Gives information for this particular subject. \
-*register.php* : For Student \
-*register7.php* : For Teacher by admin \
-*show_attendance.php* : It displays the attendance to the students. Given access by teacher. \
-*viewall.php* : It contains the link of View Attendance for all. \
-*web.php* : Gives information for this particular subject. 
+## This is what every file in my Repository does : 
 
+***config.php*** :            Makes connection with localhost and other different files. \
+***admin.php*** :             Registers himself. From welcome page, he goes to different pages from the panel. \
+***blockchain.php*** :        Gives information for this particular subject. \
+***header.php*** :            Common Header for every student and teacher's pages. \
+***hompage.php*** :           After Login, the user is welcomed to this page. \
+***ind.php*** :               Gives the overview for the teacher's Home page. \
+***index.php*** :             This the Login page for the users. \
+***lab.php*** :               Gives information for this particular subject. \
+***register.php*** :          For Student \
+***register7.php*** :         For Teacher by admin \
+***show_attendance.php*** :   It displays the attendance to the students. Given access by teacher. \
+***viewall.php*** :           It contains the link of View Attendance for all. \
+***web.php*** :               Gives information for this particular subject. 
+
+###
+<img src="./screenshots/login.jpeg" alt="login">
+
+<img src="./screenshots/homepage.jpeg" alt="homepage">
